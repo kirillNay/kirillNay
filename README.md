@@ -7,8 +7,6 @@
 
 - 🏆 Yandex Cup [2022](https://github.com/kirillNay/HideAndSeek) and [2023](https://github.com/kirillNay/SampleRecorder) participent
 
-- 🔭 I’m currently working on [tg-mini-app](https://github.com/kirillNay/tg-mini-app)
-
 - 😯 Highly passionate about Telegram and TON ecosystem.
 
 - 📫 How to reach me **kirill.nayduikkn1@gmail.com**
