@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A mobile developer from Saint Peterburg, Russia</h3>
 
-- 👨‍💻 Android developer in the best streaming service of movies and tv shows [Okko](https://okko.tv/).
+- 👨‍💻 Android developer in the streaming service of movies and tv shows [Okko](https://okko.tv/).
 
-- 👨‍🏫 Yandex Practicum mentor on [_Android developer_](https://practicum.yandex.ru/android-developer/) course
+- 👨‍🏫 Ex Yandex Practicum mentor and author on [_Android developer_](https://practicum.yandex.ru/android-developer/) course
 
 - 🏆 Yandex Cup [2022](https://github.com/kirillNay/HideAndSeek) and [2023](https://github.com/kirillNay/SampleRecorder) participent
 
