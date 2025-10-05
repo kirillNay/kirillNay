@@ -3,11 +3,11 @@
 
 - 👨‍💻 Android developer in the streaming service of movies and tv shows [Okko](https://okko.tv/).
 
-- 👨‍🏫 Ex Yandex Practicum mentor and author on [_Android developer_](https://practicum.yandex.ru/android-developer/) course
+- 👨‍🏫 Mentor and author of educational courses.
 
-- 🏆 Yandex Cup [2022](https://github.com/kirillNay/HideAndSeek) and [2023](https://github.com/kirillNay/SampleRecorder) participent
+- 🏆 Active participant of programming competitions and hackathons.
 
-- 😯 Highly passionate about Telegram and TON ecosystem.
+- 😯 Highly passionate about Blockchain and TON ecosystem.
 
 - 📫 How to reach me **kirill.nayduikkn1@gmail.com**
 
