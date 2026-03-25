@@ -7,7 +7,7 @@
 
 - 🏆 Active participant of programming competitions and hackathons.
 
-- 😯 Highly passionate about Blockchain and TON ecosystem.
+- 😯 Highly passionate about Blockchain and Web3 ecosystem.
 
 - 📫 How to reach me **kirill.nayduikkn1@gmail.com**
 
