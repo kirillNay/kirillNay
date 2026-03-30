@@ -27,9 +27,9 @@
     <a href="https://www.jetbrains.com/ru-ru/lp/compose-multiplatform/" target="_blank" rel="noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="compose" width="50" height="50"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api?username=kirillNay&show_icons=true"/></p>
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=kirillNay"/></p>
+<p><img src="https://github-readme-stats-fast.vercel.app/api?username=kirillNay&show_icons=true"/></p>
 <p><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kirillNay&layout=compact" alt="GitHub Streak" /></p>
+<p><img src="https://streak-stats.demolab.com?user=kirillNay"/></p>
 
 
 <p><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kirillNay?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></p>
